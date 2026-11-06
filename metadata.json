@@ -1,0 +1,8 @@
+{
+  "name": "EkiNavi",
+  "description": "Japan Transit & Navigation mobile application featuring interactive rail maps, station markers, multi-modal routing, AI search, and live fare info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
